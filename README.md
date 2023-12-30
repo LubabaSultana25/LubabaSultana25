@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Graphics & Web Design**
 - 🌱 I’m currently learning **Web Development**
 - 🤔 I’m looking for help with **Backend Dev**
-- 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **lubabasultana.cpi@gmail.com**
-- 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: *Trying to Learn German Language*
 
 ## 💖 About Me:
