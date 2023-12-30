@@ -22,8 +22,8 @@ I'm on a mission to build not just websites, but seamless online experiences tha
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LubabaSultana25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=LubabaSultana25&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LubabaSultana25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api?username=LubabaSultana25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=LubabaSultana25&theme=shades-of-purple&hide_border=false)
+<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=LubabaSultana25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 
 ## 🌱📚 Multilingual Explorer
 Guten Tag! Ich lerne Deutsch. 
