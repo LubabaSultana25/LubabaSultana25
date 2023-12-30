@@ -22,19 +22,12 @@ I'm on a mission to build not just websites, but seamless online experiences tha
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LubabaSultana25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=LubabaSultana25&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LubabaSultana25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=LubabaSultana25&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LubabaSultana25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 
-
-## 📚 Continuous Learning
-Apart from my code editor, you'll often find me immersed in German language learning materials. I believe that learning a new language opens doors to new perspectives and enriches both personal and professional growth.
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LubabaSultana25&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4) 
 ## 🌱📚 Multilingual Explorer
 Guten Tag! Ich lerne Deutsch. 
 Beyond the realms of code, I am also delving into the world of languages. Currently, I'm on a quest to master German, adding another layer to my skill set. Learning languages is like deciphering a new code, and I find the process both intellectually stimulating and personally rewarding.
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LubabaSultana25&limit=5&theme=algolia&combine_all_yearly_contributions=true)
