@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: *Trying to Learn German Language*
 - 
-##👋About Me
+## 👋 About Me:
  I'm Lubaba Sultana, a passionate web developer who finds joy in crafting digital experiences. My journey into the world of web development began with a curious mind and a determination to turn ideas into interactive realities.
 
 ## 🌐 Socials:
