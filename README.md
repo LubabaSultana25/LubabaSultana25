@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **lubabasultana.cpi@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: *Trying to Learn German Language*
--->
-
-
+- 
+##👋About Me
+ I'm Lubaba Sultana, a passionate web developer who finds joy in crafting digital experiences. My journey into the world of web development began with a curious mind and a determination to turn ideas into interactive realities.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/Lubaba) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/LubabaSultanaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lubaba-sultana/) 
